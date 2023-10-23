@@ -1,2 +1,3 @@
 # Trilha JS Developer - Pokedex
-teste
+
+Alterações de configurações do projeto
