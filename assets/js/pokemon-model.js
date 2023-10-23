@@ -1,8 +1,11 @@
-
-class Pokemon {
-    number;
+class PokemonModel {
+    order;
     name;
-    type;
     types = [];
-    photo;
-}
+    type;
+    img;
+    height;
+    weight;
+    abilities = [];
+    status = {};
+  }
